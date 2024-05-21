@@ -1,8 +1,7 @@
 Olá eu sou o Luis Fernando Lopes
-- 🔭 Trabalho como consultor Samsung
-- 🌱 Estudo as tecnologias Python, django, Sql , html e css javascript
-- 🌱 Estudo Também Analise de dados com python
-- 🌱 Faço faculdade de Analise de Sitemas 
+- 🌱 Front-end React React-Native Flutter
+- 🌱 Back-end Java e Spring-boot Python
+- 🌱 Curso Analise de Sitemas  
 
 <div align="center">
   <a href="https://github.com/luiswebneo">
