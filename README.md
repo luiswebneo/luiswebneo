@@ -1,7 +1,9 @@
 Olá eu sou o Luis Fernando Lopes
-- 🌱 Front-end React React-Native Flutter
-- 🌱 Back-end Java e Spring-boot Python
-- 🌱 Curso Analise de Sitemas  
+-  Front-end React React-Native 
+-  Back-end Java e Spring-boot Python
+-  Banco de Dados Postgresql
+-  Cursando Analise de Sitemas
+- Trabalhando na Defesa Civil Brusque  
 
 <div align="center">
   <a href="https://github.com/luiswebneo">
