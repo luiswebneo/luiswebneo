@@ -1,6 +1,7 @@
 Olá eu sou o Luis Fernando Lopes
--  Front-end React React-Native 
--  Back-end Java e Spring-boot Python
+-  Front-end React
+-  Mobile React-Native 
+-  Back-end C# .Net Python Djangpo
 -  Banco de Dados Postgresql
 -  Cursando Analise de Sitemas
 - Trabalhando na Defesa Civil Brusque  
