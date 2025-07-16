@@ -1,8 +1,10 @@
 Olá eu sou o Luis Fernando Lopes
 -  Front-end React
 -  Mobile React-Native 
--  Back-end C# .Net Python Djangpo
--  Banco de Dados Postgresql
+-  Back-end:
+-  C# .Net
+-  Python Djangpo
+-  Banco de Dados Postgresql, SQLite
 -  Cursando Analise de Sitemas
 - Trabalhando na Defesa Civil Brusque  
 
